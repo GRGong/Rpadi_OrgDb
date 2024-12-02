@@ -2,7 +2,7 @@
 
 ## About the Database
 
-The database has been updated! It now includes annotations performed using **FANTASIA** (12,698 genes assigned), combined with the **NCBI-specific annotations** (351 genes assigned). 
+The database has been updated! It now includes annotations performed using **FANTASIA** (12,698 genes assigned), **patched with NCBI-specific annotations** (351 genes assigned).  
 
 - **NOTE:** FANTASIA tends to assign a gene to more GO terms, so the results may differ significantly from the previous NCBI-only annotations.
 
