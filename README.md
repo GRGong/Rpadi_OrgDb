@@ -8,7 +8,7 @@ The database has been updated! It now includes annotations performed using **FAN
 
 You can find the updated database and files at the following links:
 
-- [Download updated OrgDb](#)
+- [Download updated OrgDb](https://drive.google.com/file/d/1Q8LY-uPVpm6F1UWzjZr-9DwoEJHFzrTP/view?usp=sharing)
 - [Download TopGO format file](#)
 
 ### Installation Instructions
