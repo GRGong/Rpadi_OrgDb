@@ -33,7 +33,7 @@ Once the database and clusterProfiler are installed, you're ready to perform GO 
 
 ```r
 library(clusterProfiler)
-library(org.Rrpadi.eg.db)
+library(org.Rpadi.eg.db)
 
 # Example gene list
 genes <- c("LOC132916914", "LOC132916961", "LOC132917061", "LOC132917063", 
@@ -41,7 +41,7 @@ genes <- c("LOC132916914", "LOC132916961", "LOC132917061", "LOC132917063",
            "LOC132917323")
 
 # Perform GO enrichment analysis
-go_results <- enrichGO(genes, keyType = "GID", OrgDb = "org.Rrpadi.eg.db", ont = "ALL", pAdjustMethod = "BH")
+go_results <- enrichGO(genes, keyType = "GID", OrgDb = "org.Rpadi.eg.db", ont = "ALL", pAdjustMethod = "BH")
 
 # Visualize the results
 dotplot(go_results)
