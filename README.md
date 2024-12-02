@@ -14,7 +14,7 @@ You can find the updated database and files at the following links:
 ### Installation Instructions
 
 1. **Download and Install the OrgDb Database**  
-   First, download the `.tar.gz` file from the link above. After downloading, decompress the file and install the database in R using the following command:
+   First, download the `.tar.gz` file from the link above. After downloading, decompress the file (`tar -zxvf org.Rpadi.eg.db.tar.gz`) and install the database in R using the following command:
 
    ```r
    install.packages("PATH_TO/org.Rpadi.eg.db", repos = NULL, type = "source", force = TRUE)
