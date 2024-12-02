@@ -1,9 +1,15 @@
-You can find the database at the following link:
+# Rpadi_OrgDb
 
-[Download OrgDb from Google Drive](https://drive.google.com/file/d/1Ek0_aGDLZ0-VP4oNPmwRnYkVTp7DkJ35/view?usp=sharing)
+## About the Database
 
-### About the Database
-The GO annotation is based on the file **GCF_020882245.1-RS_2023_11_gene_ontology.gaf**, which is provided by NCBI.
+The database has been updated! It now includes annotations performed using **FANTASIA** (12,698 genes assigned), combined with the **NCBI-specific annotations** (351 genes assigned). 
+
+- **NOTE:** FANTASIA tends to assign a gene to more GO terms, so the results may differ significantly from the previous NCBI-only annotations.
+
+You can find the updated database and files at the following links:
+
+- [Download updated OrgDb](#)
+- [Download TopGO format file](#)
 
 ### Installation Instructions
 
