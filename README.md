@@ -17,7 +17,7 @@ You can find the updated database and files at the following links:
    First, download the `.tar.gz` file from the link above. After downloading, decompress the file and install the database in R using the following command:
 
    ```r
-   install.packages("PATH_TO/org.Rrpadi.eg.db", repos = NULL, type = "source", force = TRUE)
+   install.packages("PATH_TO/org.Rpadi.eg.db", repos = NULL, type = "source", force = TRUE)
 
 2. **Install clusterProfiler**
    To use the clusterProfiler package, install it by running the following commands in R:
