@@ -9,7 +9,7 @@ The database has been updated! It now includes annotations performed using **FAN
 You can find the updated database and files at the following links:
 
 - [Download updated OrgDb](https://drive.google.com/file/d/1Q8LY-uPVpm6F1UWzjZr-9DwoEJHFzrTP/view?usp=sharing)
-- [Download TopGO format file](#)
+- [Download TopGO format file](https://github.com/GRGong/Rpadi_OrgDb/raw/refs/heads/main/fantasia.patched_ncbi.topgo.txt.gz)
 
 ### Installation Instructions
 
